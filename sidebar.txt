@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rej:home|Door43 (rej)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rej|d43-rej repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rej/archive/master.zip|d43-rej.zip]]
+
+**Recent Changes**
+{{changes>ns = rej}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rej|Ethnologue data]]
+
